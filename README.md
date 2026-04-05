@@ -168,7 +168,7 @@ This template is the foundation. But if you want to skip the build phase and shi
 
 Each server ships with complete tool definitions, error handling, and tests. Clone, configure your API keys, deploy.
 
-**[Get the full MCP Starter Kit](https://YOURGUMROAD.com/l/mcp-starter-kit)**
+**[Get the full MCP Starter Kit](https://noumenon6.gumroad.com/l/mcp)**
 
 ---
 
