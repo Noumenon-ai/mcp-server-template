@@ -175,3 +175,5 @@ Each server ships with complete tool definitions, error handling, and tests. Clo
 ## License
 
 MIT -- see [LICENSE](./LICENSE).
+---
+Built by [Noumenon](https://github.com/Noumenon-ai)
